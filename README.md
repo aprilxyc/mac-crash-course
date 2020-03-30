@@ -2,3 +2,4 @@
 Crash course 
 
 foo = 'bar'
+hello
